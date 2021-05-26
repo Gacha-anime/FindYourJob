@@ -1,7 +1,7 @@
 # FindYourJob
 Учебный проект Glo Academy
-Выполнила: Gacha Anime
+Выполнила: Gacha Anime.
 Используются технологии: 
-HTML
+HTL
 CSS
 Bootstrap v5
